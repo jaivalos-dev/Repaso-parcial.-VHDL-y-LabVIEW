@@ -1,0 +1,38 @@
+timestamp=1726842161343
+
+[~A]
+ModifyID=13
+Version=74
+
+[~MFT]
+0=2|0test.mgf|3024|215
+1=2|1test.mgf|2203|1092
+2=0|2test.mgf|0|0
+3=2|3test.mgf|509|0
+
+[jk_flipflop]
+A/estructural=21|../src/test_preparation.vhd|14|1*2203
+BinW64/estructural=3*509
+I=0*1969
+I/estructural=0*3024
+M=11|2|vf5|1726807237631|../src/test_preparation.vhd|0*913*0xe2af6de08504c7b60f1ae2c37b5fc95fc864594b|0*1200*0x23b75c12e3e89f2ef000564498faa8c2
+M/estructural=21|2|vf5|1726842161271|../src/test_preparation.vhd|0*1292*0x95226f4b9aa24a3aafed5466b0a9efb0d9d66933|0*1668*0x20116f55b147878295aeff36dce7fc50
+NSymbols/jk_flipflop=40|0|2*0
+R=../src/test_preparation.vhd|4
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|07db4041c08ab4b76c2cc19a80772531df0f07b3e17d0e50b1e38550e4fb7c14e72bb88e8a4f62de6caae0106d3a4a53
+Version/estructural=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|e55399dccec6bc3b32e0589359ffe071c8dd67785252c3b5f739912e92df05f8ac16fd71d6e5dbd22f85b57a719f91f6
+
+[test_preparation]
+A/test_preparation=21|../src/test_preparation.vhd|16|1*1092
+BinW64/test_preparation=3*0
+I=0*2591
+I/test_preparation=0*2799
+M=11|2|vf5|1726805979437|../src/test_preparation.vhd|0*0*0xcd47af6ada5457d1ad72dbe337808353cfcb245f|0*298*0x23b75c12e3e89f2ef000564498faa8c2
+M/test_preparation=21|2|vf5|1726807215840|../src/test_preparation.vhd|0*395*0x0554c21948bd7691cb1016052123ef08c0fe06d2|0*796*0x20116f55b147878295aeff36dce7fc50
+R=../src/test_preparation.vhd|4
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|7e2857ff516d494760f75e3cdbadbb97d6712db4500a9ae521ce09974c29195da273a61d35f5dc788f0468120624bc11
+Version/test_preparation=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|7e2857ff516d494760f75e3cdbadbb97d6712db4500a9ae521ce09974c29195db057f224ad7b3664243c518c04f2ebb5
+
+[~U]
+jk_flipflop=11|0*1775||0x3
+test_preparation=11|0*2387|

@@ -1,0 +1,38 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=test
+[Library]
+test=.\test\test.lib
+[$LibMap$]
+test=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/test_preparation.vhd=-1
+/block_ff.bde=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/waveFinal.asdb=-1
+/waveFinal.awc=-1
+[Files.Data]
+.\src\test_preparation.vhd=VHDL Source Code
+.\src\block_ff.bde=Block Diagram
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\waveFinal.asdb=Accelerated Waveform File
+.\src\waveFinal.awc=Accelerated Waveform Configuration
+[file_out:/block_ff.bde]
+/..\compile\block_ff.vhd=-1
+[HierarchyViewer]
+HierarchyInformation=jk_flipflop|estructural|0
+ShowHide=ShowTopLevel
+Selected=
